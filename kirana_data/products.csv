@@ -1,0 +1,101 @@
+S.No,product_name,category,mrp,cost_price,shelf_life_days
+1,Kant Oil,Groceries,150.55,41.89,154
+2,"Kota, Namkeen",Snacks,444.5,57.39,387
+3,Raman Tea,Beverages,258.72,132.97,301
+4,"Sanghvi, Wheat Flour",Staples,96.44,258.74,415
+5,Mangat Soft Drinks,Beverages,346.56,33.96,398
+6,Jaggi-Sule Masala,Groceries,350.41,345.85,91
+7,Sha Tea,Beverages,89.35,160.57,698
+8,Ratta Soft Drinks,Beverages,174.62,372.85,664
+9,Sheth-Merchant Salt,Staples,413.2,75.66,398
+10,Palla-Muni Biscuits,Snacks,321.18,133.32,530
+11,Pall Detergent,Personal Care,279.58,44.42,258
+12,Salvi-Saraf Coffee,Beverages,489.48,83.77,236
+13,Rastogi-Gandhi Detergent,Personal Care,178.37,141.81,454
+14,Lad Masala,Groceries,314.12,116.11,602
+15,"Sehgal, Salt",Staples,354.88,321.16,491
+16,"Vasa, Chocolates",Snacks,472.52,346.94,316
+17,Sengupta Detergent,Personal Care,209.52,18.65,201
+18,Chacko Soft Drinks,Beverages,93.77,272.17,379
+19,Bora-Bhalla Rice,Staples,79.53,104.44,139
+20,Ganguly-Loke Namkeen,Snacks,104.67,121.65,342
+21,"Krishnamurthy, Masala",Groceries,205.31,253.25,558
+22,Handa Soap,Personal Care,79.05,54.68,717
+23,"Barad, Salt",Staples,182.95,72.98,66
+24,"Ahuja, Toothpaste",Personal Care,468.51,309.69,591
+25,Ranganathan Pulses,Groceries,267.98,111.42,113
+26,Sant Dal,Staples,463.25,328.94,634
+27,Chhabra-Aurora Tea,Beverages,414.52,164.27,670
+28,Kaur-Sama Salt,Staples,123.45,250.73,439
+29,Dua Pulses,Groceries,411.32,356.29,624
+30,Suri Coffee,Beverages,346.93,244.95,461
+31,"Majumdar, Oil",Groceries,49.24,93.96,312
+32,Nazareth Spices,Groceries,22.84,343.93,519
+33,"Venkatesh, Shampoo",Personal Care,436.26,277.39,716
+34,Ramesh Dal,Staples,42.76,164.34,383
+35,"Lata, Namkeen",Snacks,449.83,381.92,161
+36,Sachar Rice,Staples,380.89,124.55,415
+37,"Gade, Chips",Snacks,368.28,194.18,550
+38,Karpe Juice,Beverages,13.02,78.25,61
+39,Memon Chocolates,Snacks,445.43,95.43,538
+40,Chandran-Vyas Toothpaste,Personal Care,192.65,21.18,651
+41,Srinivasan-Bassi Coffee,Beverages,144.62,279.78,683
+42,Mammen Soap,Personal Care,229.9,90.47,415
+43,Upadhyay Soap,Personal Care,278.3,189.63,379
+44,Mitter-Ramanathan Dal,Staples,244.75,233.38,438
+45,Memon-Lall Wheat Flour,Staples,182.22,163.16,249
+46,Bajaj Namkeen,Snacks,328.0,140.2,525
+47,Ravel-Prashad Biscuits,Snacks,189.3,28.01,616
+48,Buch-Sehgal Coffee,Beverages,448.09,381.18,348
+49,"Dora, Pulses",Groceries,206.15,52.97,435
+50,Khalsa Chips,Snacks,86.14,132.96,387
+51,Lalla Detergent,Personal Care,199.83,189.52,152
+52,"Dalal, Coffee",Beverages,195.59,42.0,353
+53,"Malhotra, Wheat Flour",Staples,337.27,32.01,464
+54,"Dash, Soap",Personal Care,104.72,381.79,190
+55,Anne-Mital Wheat Flour,Staples,252.63,220.24,178
+56,Kari-Agate Juice,Beverages,106.57,107.15,396
+57,"Atwal, Masala",Groceries,269.94,54.63,475
+58,Raman Toothpaste,Personal Care,10.9,66.25,366
+59,"Narayan, Toothpaste",Personal Care,226.48,170.62,553
+60,Sekhon Pulses,Groceries,16.83,145.73,114
+61,Gour-Deo Toothpaste,Personal Care,402.05,128.71,718
+62,Sunder-Kapadia Tea,Beverages,298.51,24.96,627
+63,Joshi Coffee,Beverages,359.99,52.45,566
+64,Aurora-Madan Namkeen,Snacks,91.87,165.77,194
+65,Madan-Divan Chocolates,Snacks,58.19,36.09,392
+66,"Dugar, Biscuits",Snacks,43.72,114.34,462
+67,Devi-Chaudhry Masala,Groceries,440.13,307.32,551
+68,"Suresh, Salt",Staples,254.66,254.86,717
+69,Ben-Chaudhary Soft Drinks,Beverages,32.1,74.23,481
+70,Swaminathan Soap,Personal Care,277.25,95.05,523
+71,Issac Soft Drinks,Beverages,420.33,396.33,89
+72,Kade-Srinivasan Tea,Beverages,111.99,191.56,457
+73,"Ganesh, Soap",Personal Care,34.56,309.49,143
+74,Sethi Masala,Groceries,319.4,216.7,476
+75,Naidu-Goyal Chips,Snacks,411.18,59.51,314
+76,Dubey Dal,Staples,341.81,395.77,251
+77,Patil-Narain Pulses,Groceries,433.27,118.45,616
+78,Ahluwalia Pulses,Groceries,486.59,59.05,650
+79,Yadav Rice,Staples,24.08,48.49,658
+80,"Mani, Dal",Staples,402.93,201.15,625
+81,Dave-Purohit Sugar,Staples,16.71,8.7,305
+82,Swamy Sugar,Staples,314.23,54.22,616
+83,Wable Soft Drinks,Beverages,416.72,21.09,714
+84,"Saini, Juice",Beverages,441.19,181.92,459
+85,Nayak Dal,Staples,217.93,149.9,276
+86,Chaudhry Rice,Staples,66.07,146.44,256
+87,Dhillon-Karan Rice,Staples,12.73,185.11,354
+88,"Bobal, Salt",Staples,479.79,295.91,449
+89,Datta-Solanki Soap,Personal Care,403.41,398.47,161
+90,"Varughese, Sugar",Staples,125.46,225.97,43
+91,Narasimhan Salt,Staples,19.07,130.79,589
+92,Buch Shampoo,Personal Care,202.38,74.23,421
+93,Cherian-Koshy Oil,Groceries,46.72,57.46,177
+94,Naidu-Bhandari Rice,Staples,237.64,278.06,331
+95,Rao-Bansal Spices,Groceries,130.9,205.81,362
+96,"Parsa, Chocolates",Snacks,452.18,198.58,388
+97,Tiwari-Krishnan Chips,Snacks,185.18,288.19,479
+98,"Manda, Coffee",Beverages,56.6,353.83,105
+99,"Sule, Masala",Groceries,395.13,194.39,480
+100,Tara-Padmanabhan Tea,Beverages,13.07,290.85,554
